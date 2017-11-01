@@ -3,4 +3,4 @@ Obtiene un archivo remoto de alguna URL y lo descarga grabando con el nombre del
 Al momento graba como extensiones PDF, se puede cambiar de acuerdo al uso
 
 # uso
-python 
+python descargaMD5remoto.py
